@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "Senadapoto",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: AIzaSyCx7UiT4EntsKSsJVqYsgw3vnqnpLiudmM
 };
